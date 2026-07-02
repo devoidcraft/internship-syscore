@@ -1,0 +1,13 @@
+{
+    "target_phase": "perf-pre",
+    "phase_headings": {
+        "d&o-pre": "PRELIMINARY DESIGN & OPERATIONS REVIEW:",
+        "d&o-final": "FINAL DESIGN & OPERATIONS REVIEW:",
+        "perf-pre": "PRELIMINARY PERFORMANCE REVIEW:",
+        "perf-final": "FINAL PERFORMANCE REVIEW:",
+        "doc-pre": "PRELIMINARY DOCUMENTATION REVIEW:",
+        "doc-final": "FINAL DOCUMENTATION REVIEW:",
+        "precert-pre": "PRELIMINARY PRECERTIFICATION REVIEW:",
+        "precert-final": "FINAL PRECERTIFICATION REVIEW:"
+    }
+}
